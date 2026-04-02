@@ -49,3 +49,6 @@ Titanic (1997)	Diem Trung Binh: 3.5 (Tong so luot: 2)
 Star Wars: A New Hope (1977)	Diem Trung Binh: 3.5 (Tong so luot: 2)
 The Lion King (1994)	Diem Trung Binh: 4.0 (Tong so luot: 2)
 => QUAN QUAN: 	 is the highest rated movie with an average rating of 0.0 among movies with at least 5 ratings.
+
+# Do mỗi phim chỉ có 2 lượt đánh giá, nên không có phim nào đủ điều kiện để được tính điểm trung bình. 
+# Do đó, kết quả không có phim nào được xếp hạng và biến "phimCaoDiemNhat" vẫn giữ giá trị mặc định là null, còn biến "diemCaoNhat" vẫn giữ giá trị mặc định là 0.0. 
