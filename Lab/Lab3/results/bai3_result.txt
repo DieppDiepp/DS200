@@ -1,0 +1,15 @@
+--- DIEM TRUNG BINH THEO PHIM VA GIOI TINH ---
+MovieID: 1010  | Lawrence of Arabia (1962)                | Male Avg: 3.55  | Female Avg: 3.31 
+MovieID: 1012  | Psycho (1960)                            | Male Avg: N/A   | Female Avg: 4.00 
+MovieID: 1013  | The Godfather: Part II (1974)            | Male Avg: 4.06  | Female Avg: 3.94 
+MovieID: 1015  | Sunset Boulevard (1950)                  | Male Avg: 4.33  | Female Avg: 4.50 
+MovieID: 1020  | E.T. the Extra-Terrestrial (1982)        | Male Avg: 3.81  | Female Avg: 3.55 
+MovieID: 1025  | The Terminator (1984)                    | Male Avg: 3.93  | Female Avg: 4.14 
+MovieID: 1028  | Fight Club (1999)                        | Male Avg: 3.50  | Female Avg: 3.50 
+MovieID: 1030  | The Silence of the Lambs (1991)          | Male Avg: 3.33  | Female Avg: 3.00 
+MovieID: 1037  | The Lord of the Rings: The Fellowship of | Male Avg: 4.00  | Female Avg: 3.80 
+MovieID: 1039  | The Lord of the Rings: The Return of the | Male Avg: 3.75  | Female Avg: 3.90 
+MovieID: 1040  | Gladiator (2000)                         | Male Avg: 3.59  | Female Avg: 3.64 
+MovieID: 1043  | No Country for Old Men (2007)            | Male Avg: 3.92  | Female Avg: 3.83 
+MovieID: 1047  | The Social Network (2010)                | Male Avg: 4.00  | Female Avg: 3.67 
+MovieID: 1050  | Mad Max: Fury Road (2015)                | Male Avg: 4.00  | Female Avg: 3.32 

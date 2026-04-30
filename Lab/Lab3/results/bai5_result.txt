@@ -1,0 +1,15 @@
+--- ĐIỂM TRUNG BÌNH THEO NGHỀ NGHIỆP ---
+Occupation: Programmer           | AvgRating: 4.25 | Total Ratings: 10
+Occupation: Student              | AvgRating: 4.00 | Total Ratings: 8
+Occupation: Designer             | AvgRating: 4.00 | Total Ratings: 13
+Occupation: Nurse                | AvgRating: 3.86 | Total Ratings: 11
+Occupation: Consultant           | AvgRating: 3.86 | Total Ratings: 14
+Occupation: Journalist           | AvgRating: 3.85 | Total Ratings: 17
+Occupation: Artist               | AvgRating: 3.73 | Total Ratings: 11
+Occupation: Teacher              | AvgRating: 3.70 | Total Ratings: 5
+Occupation: Doctor               | AvgRating: 3.69 | Total Ratings: 21
+Occupation: Lawyer               | AvgRating: 3.65 | Total Ratings: 17
+Occupation: Salesperson          | AvgRating: 3.65 | Total Ratings: 17
+Occupation: Accountant           | AvgRating: 3.58 | Total Ratings: 6
+Occupation: Engineer             | AvgRating: 3.56 | Total Ratings: 18
+Occupation: Manager              | AvgRating: 3.47 | Total Ratings: 16

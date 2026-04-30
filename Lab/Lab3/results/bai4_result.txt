@@ -1,0 +1,15 @@
+--- ĐIỂM TRUNG BÌNH PHIM THEO NHÓM TUỔI ---
+ID: 1010 | Lawrence of Arabia (1962)           | <18: N/A             | 18-24: N/A             | 25-34: 3.60 (5 votes)  | 35-44: 3.28 (9 votes)  | 45-49: 3.50 (2 votes)  | 50-55: 3.75 (2 votes)  | 56+: N/A            
+ID: 1012 | Psycho (1960)                       | <18: N/A             | 18-24: N/A             | 25-34: 4.50 (1 votes)  | 35-44: 3.50 (1 votes)  | 45-49: N/A             | 50-55: N/A             | 56+: N/A            
+ID: 1013 | The Godfather: Part II (1974)       | <18: N/A             | 18-24: 4.00 (2 votes)  | 25-34: 3.71 (7 votes)  | 35-44: 4.25 (8 votes)  | 45-49: N/A             | 50-55: N/A             | 56+: N/A            
+ID: 1015 | Sunset Boulevard (1950)             | <18: N/A             | 18-24: 4.50 (1 votes)  | 25-34: 4.00 (2 votes)  | 35-44: 4.50 (2 votes)  | 45-49: 4.50 (1 votes)  | 50-55: 4.50 (1 votes)  | 56+: N/A            
+ID: 1020 | E.T. the Extra-Terrestrial (1982)   | <18: N/A             | 18-24: 3.50 (2 votes)  | 25-34: 3.58 (6 votes)  | 35-44: 3.81 (8 votes)  | 45-49: 4.00 (1 votes)  | 50-55: N/A             | 56+: 3.00 (1 votes) 
+ID: 1025 | The Terminator (1984)               | <18: N/A             | 18-24: 4.50 (1 votes)  | 25-34: 4.10 (5 votes)  | 35-44: 4.00 (7 votes)  | 45-49: 4.25 (2 votes)  | 50-55: 4.00 (1 votes)  | 56+: 3.75 (2 votes) 
+ID: 1028 | Fight Club (1999)                   | <18: N/A             | 18-24: N/A             | 25-34: 3.50 (3 votes)  | 35-44: 3.50 (2 votes)  | 45-49: N/A             | 50-55: 3.50 (2 votes)  | 56+: N/A            
+ID: 1030 | The Silence of the Lambs (1991)     | <18: N/A             | 18-24: N/A             | 25-34: 3.00 (3 votes)  | 35-44: 3.00 (1 votes)  | 45-49: 3.00 (2 votes)  | 50-55: 4.00 (1 votes)  | 56+: N/A            
+ID: 1037 | The Lord of the Rings: The Fellowsh | <18: N/A             | 18-24: 4.00 (1 votes)  | 25-34: 4.00 (5 votes)  | 35-44: 3.69 (8 votes)  | 45-49: 4.00 (2 votes)  | 50-55: 4.25 (2 votes)  | 56+: N/A            
+ID: 1039 | The Lord of the Rings: The Return o | <18: N/A             | 18-24: N/A             | 25-34: 3.83 (3 votes)  | 35-44: 3.75 (6 votes)  | 45-49: 4.50 (1 votes)  | 50-55: 3.50 (1 votes)  | 56+: N/A            
+ID: 1040 | Gladiator (2000)                    | <18: N/A             | 18-24: 3.50 (1 votes)  | 25-34: 3.42 (6 votes)  | 35-44: 3.75 (6 votes)  | 45-49: 4.00 (2 votes)  | 50-55: 3.75 (2 votes)  | 56+: 3.00 (1 votes) 
+ID: 1043 | No Country for Old Men (2007)       | <18: N/A             | 18-24: 3.50 (1 votes)  | 25-34: 3.83 (6 votes)  | 35-44: 3.75 (6 votes)  | 45-49: 4.25 (2 votes)  | 50-55: 4.50 (2 votes)  | 56+: 3.50 (1 votes) 
+ID: 1047 | The Social Network (2010)           | <18: N/A             | 18-24: N/A             | 25-34: 4.00 (4 votes)  | 35-44: 3.50 (2 votes)  | 45-49: 4.00 (1 votes)  | 50-55: N/A             | 56+: N/A            
+ID: 1050 | Mad Max: Fury Road (2015)           | <18: N/A             | 18-24: 3.00 (1 votes)  | 25-34: 3.40 (10 votes) | 35-44: 3.64 (7 votes)  | 45-49: N/A             | 50-55: N/A             | 56+: N/A            
