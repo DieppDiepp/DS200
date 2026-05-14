@@ -1,0 +1,10 @@
+Cấu trúc Schema:
+root
+ |-- Order_ID: string (nullable = true)
+ |-- Customer_Trx_ID: string (nullable = true)
+ |-- Order_Status: string (nullable = true)
+ |-- Order_Purchase_Timestamp: timestamp (nullable = true)
+ |-- Order_Approved_At: timestamp (nullable = true)
+ |-- Order_Delivered_Carrier_Date: timestamp (nullable = true)
+ |-- Order_Delivered_Customer_Date: timestamp (nullable = true)
+ |-- Order_Estimated_Delivery_Date: timestamp (nullable = true)
